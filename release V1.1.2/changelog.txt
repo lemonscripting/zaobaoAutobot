@@ -1,0 +1,4 @@
+-fix autosubmit not working
+-changed UI design to align checkboxes
+-minor UI patches 
+-fixed bugs

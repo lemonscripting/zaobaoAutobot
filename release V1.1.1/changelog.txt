@@ -1,0 +1,8 @@
+-fix modulo error resulting in negative adustedIndex returning null
+-added realtime local storage memory monitor
+-added auto submit function that checks for complete stat every second
+-fixed bugs & crash
+-fixed unable to locate variable
+-slight changes to UI designs
+-added basic antiban through eval()
+-fixed password verification not working

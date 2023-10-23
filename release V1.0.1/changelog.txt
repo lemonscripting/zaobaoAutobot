@@ -1,0 +1,2 @@
+-added authorisation before loading menu
+-added hash checking for authorisation to prevent modifications

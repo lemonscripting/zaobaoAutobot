@@ -1,0 +1,7 @@
+-added pyLib processor with the ability to extract and convert text to pinyin
+-uses comparison between extracted options and correct answers to form queryselector statements
+-added inject functions to remotely set extra score to 100
+-added inject functions to remotely clear local storage
+-c++ imgui theming
+-fixed crash & display bugs
+-added show/hide menu function

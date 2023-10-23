@@ -1,0 +1,8 @@
+-added solving for sentence questions
+-added extract data from passage
+-fixed bugs on extraction (keep punctuations and leave out spacings)
+-added comparison to be handled individually (non-fully dynamic)
+-improved UI designs
+-fixed loading bugs
+-added remote clear localstroage function
+-sentence solving bugs persists, negative values obtained
